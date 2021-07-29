@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Jeongkyu Choi.
-<img src="https://img.shields.io/badge/PHP-123435?style=flat-square&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 <!--
 **ClairKyu/ClairKyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
