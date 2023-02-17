@@ -1,11 +1,14 @@
 ### Hi 👋 My name is Jeongkyu Choi.
 
-#### 🌱 I'm interested in these skills</br>
-##### 1. In use</br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/>
-##### 2. Studying
-##### 3. Experience
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=white"/>
+#### 🌱 I'm interested in these skills.</br>
+##### 1. In use</br> 
+<img src="https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=plastic&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white"/>
+##### 2. Studying</br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
+##### 3. Experience 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/>
 <!--
 **ClairKyu/ClairKyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
