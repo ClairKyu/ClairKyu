@@ -9,7 +9,7 @@
 ##### 2. Studying</br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=NestJs&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=white"/> 
 
-##### 3. Experience</br>
+##### 3. Experienced</br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=plastic&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white"/>
 
 <!--
