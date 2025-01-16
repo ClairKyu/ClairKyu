@@ -18,7 +18,7 @@
 ###### [etc.] <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=plastic&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white"/>
 
 - - -
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairKyu&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width="28%" /> <img src="https://github-readme-stats.vercel.app/api?username=ClairKyu&show_icons=true&theme=radical" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairKyu&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application"/> <img src="https://github-readme-stats.vercel.app/api?username=ClairKyu&show_icons=true&theme=radical"/>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ClairKyu)](https://solved.ac/ClairKyu)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ClairKyu&theme=warm)
 
