@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Jeongkyu's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
 ### Hi 👋 My name is Jeongkyu Choi.
 
 #### 🌱 I'm interested in these skills.</br>
@@ -15,23 +17,9 @@
 ###### [Language] <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/></br>
 ###### [etc.] <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=plastic&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairKyu&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=28% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClairKyu&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=41% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClairKyu&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=69.2%/>
-</a>
+- - -
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairKyu&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width="28%" /> <img src="https://github-readme-stats.vercel.app/api?username=ClairKyu&show_icons=true&theme=radical" width="41%" />
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ClairKyu)](https://solved.ac/ClairKyu)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ClairKyu&theme=warm)
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ClairKyu)
-
-
-
-
-
-
-<!--![ClairKyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClairKyu&show_icons=true&theme=dark)-->
-
-<!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ClairKyu)-->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=footer)
